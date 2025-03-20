@@ -1,0 +1,12 @@
+plots/log_testing_interpolation.gif
+plots/log_training_interpolation.gif
+plots/neural_network_loss_accuracy.png
+plots/nn_training_interpolation_bp.gif
+plots/nn_training_interpolation.gif
+plots/test_interpolated_log_loss.png
+plots/test_interpolated_nn_loss.png
+plots/training_interpolated_log_loss.png
+plots/training_interpolated_nn_loss.png
+manual_grid_search.py
+data/log_synthetic_data.csv
+data_generation.py
